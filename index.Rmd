@@ -22,6 +22,7 @@ output:
 # The study
 
 * **What is the study about?**
+
   + This study examines the ways in which Cuban, Colombian, and Peninsular Spanish in Miami-Dade County (MDC) are conceptualized by Latinx participants in terms of implicit perceptions.
   
   + The authors examine how Latinx college students - all residents in Miami - perceive Spanish language variation in Miami and predict putative differences in two domains:
